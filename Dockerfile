@@ -1,7 +1,7 @@
-FROM scriptandgo/android:20180814
+FROM scriptandgo/android:20181018
 
 ENV ANDROID_NDK_HOME /opt/android-ndk
-ENV ANDROID_NDK_VERSION r17b
+ENV ANDROID_NDK_VERSION r18b
 
 
 # ------------------------------------------------------
